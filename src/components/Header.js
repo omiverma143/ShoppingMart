@@ -15,7 +15,7 @@ export const Header = () => {
         <div className="flex space-x-1 justify-center items-center">
           <img src={logo} className="h-12" alt="e-commerce Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowra text-slate-900">
-            Movies Point
+            Shopping Point
           </span>
         </div>
 
